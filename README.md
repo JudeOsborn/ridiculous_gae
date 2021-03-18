@@ -1,4 +1,4 @@
-# Ridiculously Simple App Engine Boilerplate
+# Ridiculously Simple App Engine
 
 Absolutely the simplest App Engine app I could imagine. 
 

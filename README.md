@@ -4,7 +4,7 @@ Absolutely the simplest App Engine app I could imagine.
 
 No backend. Everything goes through the .yaml file. 
 
-Static files are in the /static folder. 
+Static files go in the /static folder. Nothing but a favicon.
 
 ## Instructions
 

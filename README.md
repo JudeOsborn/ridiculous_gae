@@ -1,4 +1,4 @@
-= Ridiculously Simple App Engine Boilerplate =
+# Ridiculously Simple App Engine Boilerplate
 
 Absolutely the simplest App Engine app I could imagine. 
 
@@ -6,7 +6,7 @@ No backend. Everything goes through the .yaml file.
 
 Static files are in the /static folder. 
 
-== Instructions ==
+## Instructions
 
 Edit deploy.sh so it points to your app engine id (replace [app id]).
 

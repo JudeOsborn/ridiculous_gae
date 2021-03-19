@@ -13,6 +13,7 @@ Install:
  * [pip](https://pip.pypa.io/en/stable/installing)
 
 Install flask:
+
 	pip install
 
 ## Local server server

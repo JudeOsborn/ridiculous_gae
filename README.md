@@ -1,6 +1,6 @@
 # Ridiculously Simple App Engine
 
-Absolutely the simplest App Engine web app I could imagine. 
+A ridiculously simple App Engine boilerplate for when you just want to start making stuff.
 
 No backend. Everything goes through the .yaml file. 
 

@@ -6,13 +6,15 @@ No backend. Everything goes through the .yaml file.
 
 Static files go in the /static folder. Nothing but a favicon.
 
-## Instructions
+## Local server server
 
-Edit deploy.sh so it points to your app engine id (replace [app id]).
+	dev_appserver .
 
-Run deploy.sh to deploy to your app engine instance of choice.
+## Deploying
 
-Run dev_server.sh to run a local server hosted at localhost:8080 by default.
+Replace [app id] with your very own App Engine id.
+
+	gcloud app deploy app.yaml --project [app id] --version 1
 
 ## Why did I do this?
 

@@ -20,7 +20,7 @@ Replace [app id] with your very own App Engine id.
 
 This is part of a series of ridiculously simple, executable code examples. 
 
-Sometimes we need to cut through the documentation jungle and get to making stuff.
+Sometimes we need to cut through the documentation jungle and start making stuff.
 
 ## Credits
 

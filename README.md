@@ -18,7 +18,7 @@ Install flask:
 
 ## Local server server
 
-	dev_appserver .
+	dev_appserver.py .
 
 ## Deploying
 

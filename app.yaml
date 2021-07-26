@@ -5,9 +5,9 @@ handlers:
   static_dir: static
 
 - url: /.*
-  secure: always
   static_files: index.html
   upload: index\.html
+  secure: always
 
 skip_files:
 - .git*

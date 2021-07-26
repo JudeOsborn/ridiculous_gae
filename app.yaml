@@ -8,9 +8,6 @@ handlers:
   static_files: index.html
   upload: index\.html
 
-- url: /.*
-  script: auto
-
 skip_files:
 - .git*
 - app.yaml
